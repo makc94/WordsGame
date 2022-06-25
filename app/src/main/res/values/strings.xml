@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Words2Guess</string>
+    <string name="my_advertising">My advertising banner. Show it if no internet connection</string>
+    <string name="skip_button">Button to skip word. If it press - reset counter</string>
+    <string name="hint_button">Button to show window with list of hints</string>
+</resources>
