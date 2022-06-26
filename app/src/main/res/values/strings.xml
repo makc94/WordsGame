@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="play">Play</string>
+    <string name="name">App name</string>
+    <string name="sound">Sound</string>
+    <string name="music">Music</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="off">Off</string>
+    <string name="select_the_game_mode">Select the game mode:</string>
+</resources>
