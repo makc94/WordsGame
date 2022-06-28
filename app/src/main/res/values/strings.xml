@@ -3,4 +3,12 @@
     <string name="my_advertising">My advertising banner. Show it if no internet connection</string>
     <string name="skip_button">Button to skip word. If it press - reset counter</string>
     <string name="hint_button">Button to show window with list of hints</string>
+
+    <string name="play">Play button on</string>
+    <string name="name">App name imageView</string>
+    <string name="sound">Sound button on</string>
+    <string name="music">Music button on</string>
+    <string name="vibrate">Vibrate button on</string>
+    <string name="exit">Exit button</string>
+    <string name="game_mode_title">Select the game mode:</string>
 </resources>
